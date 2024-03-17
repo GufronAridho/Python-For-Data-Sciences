@@ -3,6 +3,8 @@
 ## Author(s)
 
 - Summera Kousar
+- Kaggle Link = https://www.kaggle.com/code/summerakousar/brain-tumor-prediction-using-ml-with-100-accuracy
+- Data Set Link = https://www.kaggle.com/datasets/jillanisofttech/brain-tumor
 
 ## Description
 
