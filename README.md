@@ -10,8 +10,13 @@
 
 Mentee assigment Project from IBM Advance AI @ Infinite Learning Python For Data Sciences
 
-## Mentee Info
+## Mentor Info
+- Name : Ichsan Takwa
 
-- Name : Gufron Aridho Triasa Putra Irawan
-  
-- Program : IBM Advance AI
+## Group Info
+
+- Me : Gufron Aridho Triasa Putra Irawan
+- Member : Akhmad Hajar
+- Member: Nisrina Ishmah Mahira
+- Member : Rayhan Dhafi
+-  Program : IBM Advance AI
